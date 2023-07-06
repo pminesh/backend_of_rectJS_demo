@@ -1,0 +1,11 @@
+{   
+    "opr_type":"user",
+    "opr":"add",
+    "data":
+    {
+        "user_email":"",
+        "user_password":"",
+        "user_type":"",
+        "user_name":""
+    }
+}
